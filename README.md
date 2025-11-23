@@ -13,9 +13,9 @@ Also, I can create Discord Bots, Android Apps and mod iOS.
 
 ---
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kl9ije&locale=en&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kl9ije&locale=en&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
-[![Can't load streak :'(](https://streak-stats.demolab.com?user=kl9ije&theme=dark&locale=en&mode=weekly&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kleo08s&locale=en&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Kleo08s&locale=en&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
+[![Can't load streak :'(](https://streak-stats.demolab.com?user=Kleo08s&theme=dark&locale=en&mode=weekly&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
 ## 📂 Active Projects
 Here’s a list of projects I'm currently working on:
