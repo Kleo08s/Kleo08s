@@ -73,7 +73,9 @@
       </td>
       <td>
         <img alt="Git" src="https://img.shields.io/badge/git-%2520?logo=git&logoColor=white&color=F05032">
+        <img alt="Nvim" src="https://img.shields.io/badge/firebase-%2520?logo=firebase&logoColor=white&color=DD2C00">
         <img alt="Instatus" src="https://img.shields.io/badge/instatus-%2520?logo=instatus&logoColor=black&color=4EE3C2">
+        <img alt="Instatus" src="https://img.shields.io/badge/Neovim-%2520?logo=neovim&logoColor=white&color=57A143">
         <img alt="VSCode" src="https://img.shields.io/badge/vscode-%2520?logo=vscode&logoColor=white&color=2F80ED">
         <img alt="Cloudflare" src="https://img.shields.io/badge/cloudflare-%2520?logo=cloudflare&logoColor=white&color=F38020">
         <img alt="Coder" src="https://img.shields.io/badge/coder-%2520?logo=coder&logoColor=white&color=090B0B">
